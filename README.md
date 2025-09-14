@@ -48,9 +48,9 @@ Calculate attrition rate = (Attrition "Yes") ÷ Total employees × 100 (by depar
 - Power BI/Tableau/Excel dashboards with bar charts, box plots, scatter plots, heatmaps.
 
 ## Dashobard
-- <a href="https://github.com/ashwinireddy09/HR-analytics/blob/main/Screenshot%202025-09-14%20194045.png">HR_1 </a>
-- <a href="https://github.com/ashwinireddy09/HR-analytics/blob/main/Screenshot%202025-09-09%20232451.png">HR_1 </a>
-- <a href="https://github.com/ashwinireddy09/HR-analytics/blob/main/Screenshot%202025-09-14%20194233.png">HR_1 </a>
+- <a href="https://github.com/ashwinireddy09/HR-analytics/blob/main/Screenshot%202025-09-14%20194045.png">Power Bi </a>
+- <a href="https://github.com/ashwinireddy09/HR-analytics/blob/main/Screenshot%202025-09-09%20232451.png">Excel</a>
+- <a href="https://github.com/ashwinireddy09/HR-analytics/blob/main/Screenshot%202025-09-14%20194233.png">Datbleau</a>
 
 
 ## Project Insights
